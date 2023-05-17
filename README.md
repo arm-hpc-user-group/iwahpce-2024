@@ -1,4 +1,3 @@
-# iwahpce-2024
 #  International Workshop on Arm-based HPC: Practice and Experience (IWAHPCE-2024)
 to be held in conjunction with The International Conference on High Performance Computing in Asia-Pacific Region ([HPC Asia 2024](https://sighpc.ipsj.or.jp/HPCAsia2024/)), Japan, Jan 25 - 27, 2024 
 
