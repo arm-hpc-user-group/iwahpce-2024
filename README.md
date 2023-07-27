@@ -20,15 +20,47 @@ In particular, this workshop will focus on the following topics of interest:
 
 All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
 
+- Full papers Manuscripts must be at most 18 pages in one-column submission PDF format including figures and references
+- Short papers Manuscripts must be at most 10 pages  in one-column submission PDF format including figures and references
+- The paper format is described in the [Paper Submission](https://sighpc.ipsj.or.jp/HPCAsia2024/cfp.html) section of HPCAsia2024
+   
+
+Please note that <b>the paper format for the submission (one-column) is different from the one of the camera ready (2-column)</b>. 
+Fore more detail, please refer https://www.acm.org/publications/authors/submissions 
+
+All submissions will be peer-reviewed by the PC members. Papers will be accepted to presentations in a workshop. The review process is double-blind. 
+
 ### Important dates
 
-TBD
+submission deadline: 27 Oct.
+notification : 17 Nov.
+camera ready: 7 Dec.
 
 ### Organizers and Program Committee
+
 Organizer and Workshop Chair
-  - Miwako Tsuji, RIKEN R-CCS
+ -  Miwako Tsuji, RIKEN R-CCS
+ -  Eva Siegmann, Stony Brook University 
+ -  Filippo Spiga, NVIDIA
+
 
 Program Committee
 
-TBD
+ -  Adrian Jackson, The University of Edinburgh
+ -  Daisuke Miyamoto, Amazon Web Services Japan G.K.
+ -  Estela Suarez , JSC
+ -  Eva Siegmann, Stony Brook University 
+ -  Filippo Spiga, NVIDIA
+ -  Gilles Fourestey, EPFL
+ -  Iacopo Colonnelli, University of Turin
+ -  Jens Domke, RIKEN R-CCS
+ -  Luca  Fedeli, CEA
+ -  Marco Aldinucci , University of Turin
+ -  Min Li, Huawei
+ -  Miwako Tsuji, RIKEN R-CCS
+ -  Shinji Sumimoto, The University of Tokyo
+ -  Tetsuya Odajima, Fujitsu
+ -  Tom Deakin , University of Bristol
+ -  Wael Elwasif, ORNL
+ -  Yuetsu Kodama, RIKEN R-CCS
 
