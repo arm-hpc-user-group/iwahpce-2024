@@ -32,9 +32,9 @@ All submissions will be peer-reviewed by the PC members. Papers will be accepted
 
 ### Important dates
 
-submission deadline: 27 Oct.
-notification : 17 Nov.
-camera ready: 7 Dec.
+ - submission deadline: 27 Oct.
+ - notification : 17 Nov.
+ - camera ready: 7 Dec.
 
 ### Organizers and Program Committee
 
