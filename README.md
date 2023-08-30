@@ -23,12 +23,15 @@ All papers must be original and not simultaneously submitted to another journal 
 - Full papers Manuscripts must be at most 18 pages in one-column submission PDF format including figures and references
 - Short papers Manuscripts must be at most 10 pages  in one-column submission PDF format including figures and references
 - The paper format is described in the [Paper Submission](https://sighpc.ipsj.or.jp/HPCAsia2024/cfp.html) section of HPCAsia2024
-   
 
 Please note that <b>the paper format for the submission (one-column) is different from the one of the camera ready (2-column)</b>. 
 Fore more detail, please refer https://www.acm.org/publications/authors/submissions 
 
 All submissions will be peer-reviewed by the PC members. Papers will be accepted to presentations in a workshop. The review process is double-blind. 
+
+### Submission site
+
+Submissions via EasyChair https://easychair.org/conferences/?conf=iwahpce2024
 
 ### Important dates
 
