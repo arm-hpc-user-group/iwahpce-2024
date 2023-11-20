@@ -35,9 +35,9 @@ Submissions via EasyChair https://easychair.org/conferences/?conf=iwahpce2024
 
 ### Important dates
 
- - submission deadline: <s>27 Oct.</s>  <s>14 Nov.</s> <B>20 Nov.</B>
- - notification : <s>17 Nov.</s> <s>5 Dec.</s> 6 Dec.
- - camera ready: <s>7 Dec.</s>  <B>12 Dec.</B>
+ - submission deadline: <s>27 Oct.</s>  <s>14 Nov.</s> <B>20 Nov.</B> (AOE)
+ - notification : <s>17 Nov.</s> <s>5 Dec.</s> 6 Dec.  (AOE)
+ - camera ready: <s>7 Dec.</s>  <B>12 Dec.</B>  (AOE)
 
 ### Organizers and Program Committee
 
