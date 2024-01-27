@@ -39,7 +39,7 @@ All submissions will be peer-reviewed by the PC members. Papers will be accepted
 
  - 10:35-10:50 break
 
- - 10:50-11:15 Filippo Barbari, Federico Ficarelli and Daniele Cesarini "High-throughput drug discovery on the Fujitsu A64FX architecture"
+ - 10:50-11:15 Filippo Barbari, Federico Ficarelli and Daniele Cesarini "High-throughput drug discovery on the Fujitsu A64FX architecture" (<a href="arm-iwahpce-2024.pdf">slide</a>)
  - 11:15-11:40  Yan Kang, Sayan Ghosh, Mahmut Kandemir and Andrés Marquez, "Impact of Write-Allocate Elimination on Fujitsu A64FX"
  - 11:40-12:05  Nikolay A. Simakov, Matthew D. Jones, Thomas R. Furlani, Eva Siegmann and Robert J. Harrison, "First Impressions of the NVIDIA
 Grace CPU Superchip and NVIDIA Grace Hopper Superchip for Scientific Workloads" (<a href="GraceHopper_Benchmarks_HPC_Asia_24.PDF">slide</a>)
