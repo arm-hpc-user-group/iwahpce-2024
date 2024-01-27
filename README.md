@@ -35,7 +35,7 @@ All submissions will be peer-reviewed by the PC members. Papers will be accepted
  - 09:05-09:15 David Lecomber (Arm)
  - 09:15-09:45 Invited talk, Ryohei Okazaki, "Next Arm Processor FUJITSU-MONAKA and Its Technologies"
  - 09:45-10:10 Masaki Arai, Naoto Fukumoto and Hitoshi Murai, "Introducing software pipelining for the A64FX processor into LLVM"
- - 10:10-10:35 Romain Pereira, Adrien Roussel, Miwako Tsuji, Patrick Carribault,Mitsuhisa Sato, Hitoshi Murai and Thierry Gautier "An Overview on Mixing MPI and OpenMP Dependent Tasking on A64FX"
+ - 10:10-10:35 Romain Pereira, Adrien Roussel, Miwako Tsuji, Patrick Carribault,Mitsuhisa Sato, Hitoshi Murai and Thierry Gautier "An Overview on Mixing MPI and OpenMP Dependent Tasking on A64FX" (<a href="2024_iwahpce_mpc-fugaku.pdf">slide</a>)
 
  - 10:35-10:50 break
 
